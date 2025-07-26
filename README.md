@@ -94,7 +94,7 @@ rag-kdrama-chatbot/
 
 Developed by [Vaishu Gattu](https://www.linkedin.com/in/vaishu-gattu)
 
-- [GitHub](https://github.com/vaishu-gattu)
+
 
 ---
 
