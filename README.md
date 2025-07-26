@@ -65,7 +65,7 @@ npm start
 ### Chat UI with Response
 ![Chat UI - Response](images/2.png)
 
-> _Note: Add actual screenshots inside a `/screenshots` folder and update filenames accordingly._
+
 
 ---
 
