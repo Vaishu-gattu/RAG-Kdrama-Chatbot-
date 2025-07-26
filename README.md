@@ -60,10 +60,10 @@ npm start
 ## Screenshots
 
 ### Chat UI (Initial View)
-![Chat UI - Welcome](screenshots/chat_welcome.png)
+![Chat UI - Welcome](images/1.png)
 
 ### Chat UI with Response
-![Chat UI - Response](screenshots/chat_response.png)
+![Chat UI - Response](images/2.png)
 
 > _Note: Add actual screenshots inside a `/screenshots` folder and update filenames accordingly._
 
